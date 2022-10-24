@@ -1,4 +1,4 @@
-# Data science project in python - Popular Movies Prediction
+# Data Science Project - Popular Movies Prediction
 #### Data Sources :
 - Crawling : himovies , IMDB Popularity Actors
 - EDA : medium
