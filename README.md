@@ -7,7 +7,7 @@
 ### The process consisted of several parts:
 - Scraping Data , Data Cleaning , EDA and Machine Learning
 #### In the scraping section we used the crawling method to take the relevant data and convert it all to a DataFrame from the himovies site.
-#### We then performed the Data Cleaning process: duplication handling, missing values, outliners handling and column optimization
+#### We then performed the Data Cleaning process: duplication handling, missing values, outliers handling and column optimization
 #### Afterwards in the EDA phase we presented the data graphically and drew conclusions from the data
 #### In the Machine Learning we split the dataset to 80% train and 20% test and we checked 4 different algorithms in order to see which one gives us the best prediction
 ### In conclusion we found that random forest regression model gave us the best predictions with 88.75% success
